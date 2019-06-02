@@ -1,0 +1,3 @@
+É¾³ý£ºnpm install rimraf -g
+
+°²×°£ºnpm install
